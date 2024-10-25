@@ -4,13 +4,15 @@
 
 ## About the Project
 
-...
+Built a custom View Modifier (with an accompanying View extension) that makes a view have large, blue font for prominent titles.
 
-This project covers topics like ...
+This project covers a lot about views and modifiers, why SwiftUI uses structs for views, the fact that there is nothing behind a view, why modifier order matters, why `some View` is useful, conditional and environmental modifiers, views as properties, view composition, and custom modifiers.
 
 ## Diagrams
 
-...
+| **Before** | **After** |
+|--|--|
+| ![simulator_screenshot_13F73F3C-6EE7-456D-92D9-077C01B97F0D](https://github.com/user-attachments/assets/08755bc1-b9da-4e54-b880-537ea3cc3b87) | ![simulator_screenshot_AC6D66CF-FFB8-4518-8DDF-DF6061533C1C](https://github.com/user-attachments/assets/a566f9af-683f-4544-8e4b-760bf1104082) |
 
 ### Built With
 
