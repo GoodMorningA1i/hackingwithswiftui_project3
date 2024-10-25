@@ -14,8 +14,15 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+                .prominentTitle()
         }
         .padding()
+    }
+}
+
+extension View {
+    func prominentTitle() -> some View {
+        modifier(Title())
     }
 }
 
